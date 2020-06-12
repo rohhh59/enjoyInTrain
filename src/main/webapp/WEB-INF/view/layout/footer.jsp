@@ -5,71 +5,20 @@
 <%
 	String cp=request.getContextPath();
 %>
-
-<!-- Footer -->
-		<div id="footer">
-			<div class="container">
-				<div class="row">
-					<div class="3u">
-						<section>
-							<h2>Maecenas lectus</h2>
-							<div class="balloon">
-								<blockquote>&ldquo;&nbsp;&nbsp;Donec leo, vivamus ullamcorper fermentum nibh in augue pulvinar ullamcorper metus praesent a lacus at urna congue ullamcorper  rutrum.&nbsp;&nbsp;&rdquo;<br>
-									<br>
-									<strong>&ndash;&nbsp;&nbsp;John Smith</strong></blockquote>
-							</div>
-							<div class="ballon-bgbtm">&nbsp;</div>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<h2>Donec dictum</h2>
-							<ul class="default">
-								<li>
-									<h3>Mauris vulputate dolor sit amet</h3>
-									<p><a href="#">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</a></p>
-								</li>
-								<li>
-									<h3>Fusce ultrices fringilla metus</h3>
-									<p><a href="#">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</a></p>
-								</li>
-								<li>
-									<h3>Donec dictum metus in sapien</h3>
-									<p><a href="#">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</a></p>
-								</li>
-							</ul>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<h2>Nulla leifend</h2>
-							<p>Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat.</p>
-							<ul class="style5">
-								<li><a href="#"><img src="images/pics07.jpg" alt=""></a></li>
-								<li><a href="#"><img src="images/pics08.jpg" alt=""></a></li>
-								<li><a href="#"><img src="images/pics09.jpg" alt=""></a></li>
-								<li><a href="#"><img src="images/pics10.jpg" alt=""></a></li>
-								<li><a href="#"><img src="images/pics11.jpg" alt=""></a></li>
-								<li><a href="#"><img src="images/pics12.jpg" alt=""></a></li>
-							</ul>
-							<a href="#" class="button">More Collections</a>
-						</section>
-					</div>
-					<div class="3u">
-						<section>
-							<h2>Luctus eleifend</h2>
-							<p><strong>Aliquam erat volutpat. Pellentesque tristique ante ut risus. </strong></p>
-							<p>Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit.</p>
-							<p>Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat.</p>
-							<a href="#" class="button">More Collections</a>
-						</section>
-					</div>
-				</div>
-			</div>
+<!-- Copyright -->
+<div id="footer">
+	<div id="copyright" class="container">
+		<div>
+			상호 : Enjoy in Train | 사업자등록 : 789-12-45687 | 주소: 서울시 마포구 서교동 56-8 | Tel: 02-1234-2589 | Fax: 02-1234-2589
+			<br>
+			<a href="">ET 정책 및 약관</a>&nbsp;&nbsp;&nbsp;|
+			<a href="">회사소개</a>&nbsp;&nbsp;&nbsp;|
+			<a href="">제휴제안</a>&nbsp;&nbsp;&nbsp;|
+			<a href="">이용약관</a>&nbsp;&nbsp;&nbsp;|
+			<a href="">개인정보취급방침</a>&nbsp;&nbsp;&nbsp;|
+			<a href="">고객센터</a>&nbsp;&nbsp;&nbsp; 
+			<br>
+			COPYRIGHT © Enjoy in Train. ALL RIGHTS RESERVED
 		</div>
-	<!-- /Footer -->
-
-	<!-- Copyright -->
-		<div id="copyright" class="container">
-			Design: <a href="http://templated.co">TEMPLATED</a> Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
-		</div>
+	</div>
+</div>

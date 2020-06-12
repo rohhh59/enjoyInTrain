@@ -9,6 +9,9 @@
 
 <!-- Header -->
 		<div id="header">
+		<div class="loginForm">
+			Login | Join 
+		</div>
 			<div class="container">
 					
 				<!-- Logo -->
